@@ -1,0 +1,5 @@
+book:
+  author: wangyunfei
+  name: spring boot-prod
+server:
+  port: 8081
